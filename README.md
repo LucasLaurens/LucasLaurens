@@ -6,6 +6,6 @@ My strong knowledge:
 - 🌐 Javascript : Node.js, Vue.JS, React.js, Typescript
 
 My strong interests:
-- 🖼 Sport: Basket-Ball, Handball, Hiking
-- 🎵 Music : Every kind
-- 🎮 Videogames
+- 🎽 Sport: Basket-ball, Handball, Hiking
+- 🎵 Music: Every kind
+- 🎮 Video games
