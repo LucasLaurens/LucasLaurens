@@ -8,6 +8,7 @@ The languages|frameworks I work with every day, whether at work or on a side pro
 The tools I use to set up my everyday environment:
 - Docker - ⛴️|🏗
 - Laravel Herd
+- Homebrew
 
 My strong interests:
 - 🎽 Sport: Basket-ball, Handball, Hiking
