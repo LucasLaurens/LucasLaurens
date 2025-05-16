@@ -4,17 +4,19 @@
 
 ## Back
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,docker,git,mysql,sqlite,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,docker,git,mysql,sqlite,go,redis)](https://skillicons.dev)
 
 ### More
 
 - Sylius
-- Laravel Herd
-- Homebrew
 
 ## Front
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nextjs,tailwind,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nextjs,pinia,tailwind,sass)](https://skillicons.dev)
+
+### More 
+
+- Vite
 
 ## Tools
 
@@ -27,6 +29,7 @@
 ### More
 
 - Pest
+- PhpUnit
 - Behat
 
 ## Powered by
