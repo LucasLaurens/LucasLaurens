@@ -32,10 +32,6 @@
 - PhpUnit
 - Behat
 
-## Powered by
-
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-
 ## About me
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=I%20am%20Lucas%20and%20I%20love%20to%20work%20on%20any%20development%20project.%20I%20like%20to%20discover%20new%20technologies%20and%20frameworks.%20I%20also%20like%20to%20think%20about%20different%20issues%20and%20solve%20them.)](https://github.com/LucasLaurens?tab=repositories)
