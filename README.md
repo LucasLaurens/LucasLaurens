@@ -1,6 +1,6 @@
 # What I use most in my day-to-day work
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLaurens&show_icons=true&theme=transparent&layout=donut&langs_count=10)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLaurens&show_icons=true&theme=transparent&layout=normal&langs_count=10)
 
 ## Back
 
