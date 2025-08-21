@@ -4,7 +4,7 @@
 
 ## Back
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,docker,git,mysql,sqlite,go,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,docker,git,mysql,sqlite,go,rust,redis)](https://skillicons.dev)
 
 ### More
 
